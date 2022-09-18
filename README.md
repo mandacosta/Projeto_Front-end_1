@@ -1,5 +1,7 @@
 # Project_Front-end_1 🏁
 
+## The dog shop 🐶
+
 ### 🇬🇧 en
 Final project for the first module at Kenzie Academy Brasil
 
