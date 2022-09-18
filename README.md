@@ -14,6 +14,8 @@ Since the beggining we were always encoureged to follow good codding practices, 
 
 <a href="https://www.linkedin.com/posts/amandacosta94_html-css-javascript-activity-6955944016559370240-iNj-?utm_source=share&utm_medium=member_desktop"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 
+Github pages <a href="https://mandacosta.github.io/Projeto_Front-end_1/" target:_blank> link </a>
+
 
 
 ##
@@ -30,3 +32,6 @@ Desde o início sempre fomos incentivados a seguir boas práticas de codificaç�
 👀 Por favor, fique à vontade para conferir meu post no LinkedIn sobre esse projeto:
 
 <a href="https://www.linkedin.com/posts/amandacosta94_html-css-javascript-activity-6955944016559370240-iNj-?utm_source=share&utm_medium=member_desktop"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+
+Github pages <a href="https://mandacosta.github.io/Projeto_Front-end_1/" target:_blank> link </a>
+
