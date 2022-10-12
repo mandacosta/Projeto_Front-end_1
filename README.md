@@ -5,12 +5,12 @@
 ### 🇬🇧 en
 Final project for the first module at Kenzie Academy Brasil
 
-This is a very special project because it was the first time I created an functional application having only 2 months since I started leraning HTML, CSS and Javascript.
+This is a very special project because it was the first time I created an functional application having only 2 months since I started learning HTML, CSS and Javascript.
 The focus of the activity was to create an e-commerce witch had to include an dinamic shopping cart that would show total price and quantities.
 An functional filtering section and search bar was optional, but I made sure to include those as well, just like the amount per item so the shopping cart's length would go only as far as the total items available.
 Since the beggining we were always encoureged to follow good codding practices, so I aimed to do that: semmantic html tags, clear functions and well named elements (variables, constanst and funcions).
 
-👀 Please, fell free to check my LinkedIn post about this project:
+👀 Please, feel free to check my LinkedIn post about this project:
 
 <a href="https://www.linkedin.com/posts/amandacosta94_html-css-javascript-activity-6955944016559370240-iNj-?utm_source=share&utm_medium=member_desktop"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 
